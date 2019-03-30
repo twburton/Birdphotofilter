@@ -115,8 +115,8 @@ def process1(directory,tilecount):
 # outdirectory2 = 'C:/Users/twburton/Desktop/output/nobirds/'
 # outdirectory3 = 'C:/Users/twburton/Desktop/output/tiles/'
 rootdir = 'F:/trainingpic4/testimages'
-outdirectory = 'F:/trainingpic4/colortestout/'
-outdirectory2 = 'F:/trainingpic4/colortestoutempty/'
+outdirectory = 'F:/trainingpic4/output/'
+outdirectory2 = 'F:/trainingpic4/outputempty/'
 outdirectory3 = 'F:/trainingpic4/tiles/'
 # load the image
 #image = cv2.imread(args["image"])
